@@ -1,0 +1,38 @@
+body {
+    background-color: lightgreen;
+    text-color: grey;
+}
+
+h1 {
+    color: blue;
+    text-align: right;
+    border-style: dotted;
+    border-width: 5px;
+}
+
+h2 {
+    color: red;
+    text-align: left;
+}
+
+
+p {
+    font-family: calibri;
+    font-size: 28px;
+}
+
+nav li {
+  display: inline;
+}
+
+section {
+ display: flex;
+}
+
+aside {
+ flex: 1
+}
+
+article {
+ flex: 4
+}
